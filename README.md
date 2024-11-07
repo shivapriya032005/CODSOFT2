@@ -20,5 +20,7 @@ The classic "Rock, Paper, Scissors" game allows users to play against the comput
 3. Run the script:
    -`python rock_paper_scissors.py`
   
+## Author
+**Lalitha Shivapriya Sriramoju**  
+If you have any questions, feel free to reach out at shivapriya032005@gmail.com .
 
----
